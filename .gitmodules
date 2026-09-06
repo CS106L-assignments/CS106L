@@ -1,15 +1,15 @@
 [submodule "01-GraphViz"]
 	path = 01-GraphViz
-	url = ../CS106L-submodule-origins/01-GraphViz.git
+	url = git@github.com:CS106L-assignments/GraphViz.git
 [submodule "01-WikiRacer"]
 	path = 01-WikiRacer
-	url = ../CS106L-submodule-origins/01-WikiRacer.git
+	url = git@github.com:CS106L-assignments/WikiRacer.git
 [submodule "02-GapBuffer"]
 	path = 02-GapBuffer
-	url = ../CS106L-submodule-origins/02-GapBuffer.git
+	url = git@github.com:CS106L-assignments/GapBuffer.git
 [submodule "03-HashMap"]
 	path = 03-HashMap
-	url = ../CS106L-submodule-origins/03-HashMap.git
+	url = git@github.com:CS106L-assignments/HashMap.git
 [submodule "04-KDTree"]
 	path = 04-KDTree
-	url = ../CS106L-submodule-origins/04-KDTree.git
+	url = git@github.com:CS106L-assignments/KDTree.git
