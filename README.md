@@ -27,3 +27,9 @@ This is a cross-semester self-study collection, not one byte-identical course of
 `01-WikiRacer/Part1/wikiscraper.cpp.o` is a precompiled 64-bit GNU/Linux object file. Use WSL/Linux for that original Part1 setup; do not expect the supplied binary object to link directly in native Windows toolchains.
 
 Each project directory contains its own `README.md` and build/test instructions. No setup scripts were executed while preparing this bundle.
+
+# CS106L Assignment Link
+https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1232/assignment1.html
+https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1204/index.html
+https://web.stanford.edu/class/cs106l/
+
